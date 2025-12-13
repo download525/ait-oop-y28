@@ -4,4 +4,9 @@
         <RootNamespace>Itmo.ObjectOrientedProgramming.Lab4.Presentation</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="CommandParsers\" />
+      <Folder Include="Console\" />
+    </ItemGroup>
+
 </Project>

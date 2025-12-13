@@ -3,5 +3,13 @@
     <PropertyGroup>
         <RootNamespace>Itmo.ObjectOrientedProgramming.Lab3</RootNamespace>
     </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Abstractions\" />
+      <Folder Include="Battle\" />
+      <Folder Include="Builders\" />
+      <Folder Include="Catalog\" />
+      <Folder Include="Creature\" />
+    </ItemGroup>
     
 </Project>
